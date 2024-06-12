@@ -13,7 +13,7 @@
 
 2. 配置maven路径，加载依赖
 
-   ![image-20240612205748599](C:\Users\luodacong\AppData\Roaming\Typora\typora-user-images\image-20240612205748599.png)
+   ![image-20240612205748599](image-20240612205748599.png)
 
 3. 运行sql文件，确保application.yml的数据库名称和账号密码是数据库所在主机的账号密码
 
@@ -32,23 +32,23 @@
 
 + 登入页面
 
-![image-20240612210244350](C:\Users\luodacong\AppData\Roaming\Typora\typora-user-images\image-20240612210244350.png)
+![image-20240612210244350](image-20240612210244350.png)
 
 + 系统用户页面
 
-![image-20240612210311803](C:\Users\luodacong\AppData\Roaming\Typora\typora-user-images\image-20240612210311803.png)
+![image-20240612210311803](image-20240612210311803.png)
 
 + 社团类型管理
 
-![image-20240612210326835](C:\Users\luodacong\AppData\Roaming\Typora\typora-user-images\image-20240612210326835.png)
+![image-20240612210326835](image-20240612210326835.png)
 
 + 社团信息管理
 
-![image-20240612210345211](C:\Users\luodacong\AppData\Roaming\Typora\typora-user-images\image-20240612210345211.png)
+![image-20240612210345211](image-20240612210345211.png)
 
 + 社团成员页面
 
-![image-20240612210404865](C:\Users\luodacong\AppData\Roaming\Typora\typora-user-images\image-20240612210404865.png)
+![image-20240612210404865](image-20240612210404865.png)
 
 
 
