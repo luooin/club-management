@@ -1,0 +1,24 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /teams
+    encoding:
+      enabled: true
+      charset: UTF-8
+      force: true
+spring:
+  mvc:
+    static-path-pattern: /**
+  devtools:
+    restart:
+      enabled: true  #设置开启热部署
+      additional-paths: src/main/java #重启目录
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/club_management?zeroDateTimeBehavior=convertToNull&serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8&useSSL=false
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
