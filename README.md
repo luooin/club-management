@@ -1,90 +1,72 @@
-# club-management
+# 🎂
 
-#### 介绍
-基于SpringBoot+Vue的大学生社团管理系统，一个普通的增删改查项目，校园社团管理
+基于SpringBoot+Vue的大学生社团管理系统
 
+## 介绍🌞
 
-**交流+Q：1902317191**
+> 一个普通的增删改查项目，校园社团管理
 
-**CSDN项目合集：http://t.csdnimg.cn/j7xXJ**
+## 项目演示🌞
 
-#### 软件架构
-软件架构说明
++ 登录
 
-
-#### 安装教程
-
-1. 运行环境准备mysql8+jdk1.8+npm14.16.1
-
-2. 配置maven路径，加载依赖
-
-   ![image](https://github.com/luocong-shuaige/club-management/assets/85004172/00687e7d-6ea5-4a03-b0be-78f8e9dc25bc)
-
-
-3. 运行sql文件，确保application.yml的数据库名称和账号密码是数据库所在主机的账号密码
-
-#### 使用说明
-
-1. 登入
-
-   账号：admin	密码：admin
-   账号：user	密码：123456
-
-2. 运行流程
-
-前端初始化指令：
-> npm install
-
-前端运行指令：
-> npm run serve
-
-详情可以查看这篇csdn博客：http://t.csdnimg.cn/kpuxS
-
-#### 项目演示
-
-+ 登入页面
-
-![image](https://github.com/luocong-shuaige/club-management/assets/85004172/e381d51f-417c-4367-9b02-b4edec876846)
-
+![1732762368486](files/1732762368486.jpg)
 
 + 系统用户页面
 
-![image](https://github.com/luocong-shuaige/club-management/assets/85004172/3007c8ce-895c-4541-bd01-f515e89cddea)
+![1732762390906](files/1732762390906.jpg)
+
 
 
 + 社团类型管理
 
-![image](https://github.com/luocong-shuaige/club-management/assets/85004172/27173253-5cc9-4ef2-9cd7-28b897199415)
-
+![1732762407651](files/1732762407651.jpg)
 
 + 社团信息管理
 
-![image](https://github.com/luocong-shuaige/club-management/assets/85004172/f90a7938-31d6-4cfe-b143-6a0693dbbd8d)
-
+![1732762423434](files/1732762423434.jpg)
 
 + 社团成员页面
 
-![image](https://github.com/luocong-shuaige/club-management/assets/85004172/ade2f033-450e-477b-80aa-31efe356f2f7)
+![1732762439628](files/1732762439628.jpg)
+
+## 安装教程🌞
+
+```
+1. 运行环境准备mysql8 + java8 + node14.16.1 + redis
+
+2. 配置maven路径，加载依赖
+
+3. 运行sql文件，确保application.yml或config.properties的数据库名称和账号密码是数据库所在主机的账号密码
+```
 
 
 
+## 使用说明🌞
+
+```
+1. 登入
+
+  
+2. 运行流程
+
+SpringBoot+Vue项目的部署详情可以查看这篇CSDN博客：http://t.csdnimg.cn/kpuxS
+
+前后端不分离项目的部署流程可以查看这篇CSDN博客：http://t.csdnimg.cn/CslA5
+```
 
 
 
-#### 参与贡献
+## CSDN项目合集🌞
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+点击前往：http://t.csdnimg.cn/Q4u84
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 联系我🌞
 
+**有偿获取完整源码或调试代码**
+
+🐧：1902317191
+
+微信：
